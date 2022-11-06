@@ -1,0 +1,6 @@
+https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8/relationships
+
+Go to table with class="details"
+Go to tbody
+Go to first <tr>
+Get everything
